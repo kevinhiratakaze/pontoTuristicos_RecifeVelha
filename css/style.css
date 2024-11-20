@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Geist+Mono:wght@100..900&family=Play:wght@400;700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Geist+Mono:wght@100..900&family=Play:wght@400;700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Geist+Mono:wght@100..900&family=Play:wght@400;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Shadows+Into+Light&display=swap');
+
+
+body{
+    background-color: rgb(223, 236, 162);
+}
+
+span{
+    font-family: "Geist Mono", monospace;
+    color: rgb(86, 86, 255);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: large;
+}
+
+h1{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    color: rgb(86, 86, 255);
+    text-align: center;
+}
+
+h2{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    color: rgb(86, 86, 255);
+    text-align: center;
+}
+
+h3{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    color: rgb(86, 86, 255);
+    text-align: center
+}
+
+p{
+    font-family: "Playfair Display", serif;
+    text-indent: 40px;
+    text-align: justify;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.localizacao{
+    text-align: center;
+}
