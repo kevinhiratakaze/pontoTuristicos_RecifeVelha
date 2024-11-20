@@ -44,6 +44,7 @@ p{
     text-align: justify;
 }
 
+
 img{
     display: block;
     margin: 0 auto;
@@ -57,3 +58,20 @@ iframe{
 .localizacao{
     text-align: center;
 }
+
+.imagensTuristicas{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.imagensTuristicas img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
